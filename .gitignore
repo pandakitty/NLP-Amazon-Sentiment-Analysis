@@ -1,0 +1,4 @@
+# Data files should not be uploaded due to size limits
+amazon_reviews.csv
+amazon_reviews.csv.csv
+*.csv
